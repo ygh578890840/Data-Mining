@@ -1,2 +1,2 @@
 # Data-Mining
-Apriori and FP-growth
+Find frequent itemsets using Apriori and FP-growth.
